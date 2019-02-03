@@ -15,9 +15,13 @@ JVM 是 java 程序员永远的考题，算法是所有程序员永久的考题�
 - [Chapter02-Sorting](./Chapter02-Sorting)
 
   - [2-1-初级排序算法](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter02-Sorting%20/2-1-%E5%88%9D%E7%BA%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
+
   - [2-2-归并排序](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter02-Sorting%20/2-2-%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.md)
+
   - [2-3-快速排序](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter02-Sorting%20/2-3-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
+
   - [2-4-优先队列](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter02-Sorting%20/2-4-%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97.md)
+
   - [2-5-排序应用](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter02-Sorting%20/2-5-%E6%8E%92%E5%BA%8F%E5%BA%94%E7%94%A8.md)
 
 - [Chapter03-Searching](https://github.com/MeandNi/Algorithms4-Common/tree/master/Chapter03-Searching)
@@ -32,7 +36,6 @@ JVM 是 java 程序员永远的考题，算法是所有程序员永久的考题�
 - Chapter04-Graphs
 
 - [Chapter05-String](https://github.com/MeandNi/Algorithms4-Common/tree/master/Chapter05-String)
-
   - [5-1-字符串排序](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter05-String/5-1-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%8E%92%E5%BA%8F.md)
 
 
