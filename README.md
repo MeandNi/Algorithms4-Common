@@ -15,7 +15,6 @@ JVM 是 java 程序员永远的考题，算法是所有程序员永久的考题�
 ## 笔记目录
 
 - [Chapter02-Sorting](./Chapter02-Sorting)
-
   - [2-1-初级排序算法](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter02-Sorting%20/2-1-%E5%88%9D%E7%BA%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
 
   - [2-2-归并排序](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter02-Sorting%20/2-2-%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.md)
@@ -43,6 +42,7 @@ JVM 是 java 程序员永远的考题，算法是所有程序员永久的考题�
 - [Chapter05-String](https://github.com/MeandNi/Algorithms4-Common/tree/master/Chapter05-String)
 
   - [5-1-字符串排序](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter05-String/5-1-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%8E%92%E5%BA%8F.md)
+  - [5-2-单词查找树](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter05-String/5-2-%E5%8D%95%E8%AF%8D%E6%9F%A5%E6%89%BE%E6%A0%91.md)
 
 
 
