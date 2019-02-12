@@ -40,9 +40,10 @@ JVM 是 java 程序员永远的考题，算法是所有程序员永久的考题�
   - [4-2-有向图](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter04-Graphs/4-2-%E6%9C%89%E5%90%91%E5%9B%BE.md)
 
 - [Chapter05-String](https://github.com/MeandNi/Algorithms4-Common/tree/master/Chapter05-String)
-
   - [5-1-字符串排序](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter05-String/5-1-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%8E%92%E5%BA%8F.md)
+
   - [5-2-单词查找树](https://github.com/MeandNi/Algorithms4-Common/blob/master/Chapter05-String/5-2-%E5%8D%95%E8%AF%8D%E6%9F%A5%E6%89%BE%E6%A0%91.md)
+  - [5-3-子字符串查找]()
 
 
 
